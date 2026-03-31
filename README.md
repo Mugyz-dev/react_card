@@ -20,3 +20,14 @@ This is my first React app built as part of the Bridge programme.
 ## How to run it
 npm install
 npm run dev
+```
+
+Then back in your Command Prompt run:
+```
+git add .
+```
+```
+git commit -m "add README"
+```
+```
+git push
